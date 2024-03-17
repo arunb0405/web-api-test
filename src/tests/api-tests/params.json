@@ -1,0 +1,18 @@
+{
+  "id": 6370,
+  "category": {
+    "id": 6380,
+    "name": "Animal"
+  },
+  "name": "koala",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "string"
+    }
+  ],
+  "status": "available"
+}
